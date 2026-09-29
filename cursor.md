@@ -12,8 +12,8 @@ The page is https://sixpack.wtf/1984.html. The site repo is STP-KAS/sixpack.wtf.
 - Draw original art. Stone town, dirt path, fountain, stalls, and the roadster are fine. Do not trace Jagex sprites, do not use the RuneScape wordmark, and do not ship a soundtrack file.
 - Shops stay Nia's Cafe, Orin's Table, Mara's Groceries, and Pike's Roadster. Venn's bank is a room, not a menu. The car does not leave the square.
 - One rail for the whole menu. It opens on POCencept. One Buy button. Prices stay toy cents. tKAS converts at the live quote. POCencept and KUSDT are ledger tags.
-- The thin bar lists tKAS, POCencept, and KUSDT. Each booth is one chest, with the locked part and the purse. The quote and the reserve address sit on the tKAS booth. One booth's buttons show at a time.
-- Click the ground to walk. Left and right turn the view. Walking follows the way the camera looks.
+- The thin bar lists tKAS, POCencept, and KUSDT. The bank is a swap popup: a tKAS box, a toy-dollar box, and a Result line on the panel. The quote and the reserve address sit on the fine line. Three balance cards show at once.
+- Click the ground to walk. Buy the roadster for 20.00 toy dollars and you drive it on the square. Inside a shop you get out and walk. The car does not leave town. Left and right turn the view. Walking follows the way the camera looks. Hold the left mouse button to look all the way around.
 - The confirm-over rule is checked before any test-tab key signs.
 - Bump the 1984.css and 1984/client.mjs query strings when those files change.
 
