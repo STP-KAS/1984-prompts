@@ -17,6 +17,7 @@ The page is https://sixpack.wtf/1984.html. The site repo is STP-KAS/sixpack.wtf.
 - A new arrival is funded with 10000 tKAS from Grok's Testnet-10 wallet. One thousand can be opened in a UTC day. Do not mint them ahead of a visit.
 - The confirm-over rule is checked before any test-tab key signs, and before a Kasware or Kastle shop payment signs.
 - Opening a shop or the bank puts you in the room, on foot, including from the side menu. Closing it puts you back outside.
+- A shop purchase shows a banner. The roadster says You drive. A lap says One lap. Any other item says Paid.
 - Every Testnet 10 send pays twice the standard fee. The quiet standard is 100 sompi per gram, so the default rate is 200. If the node quotes a higher ordinary rate, pay twice that quote. A wallet shop payment and a wallet lock read that doubled rate from the till before they sign. If the read fails, they still ask for 200. Do not change the 0.6 tKAS faucet amount.
 - Bump the 1984.css and 1984/client.mjs query strings when those files change.
 
