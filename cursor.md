@@ -1,8 +1,8 @@
 # Cursor
 
-You build Kworld. The bot on this desk watches Testnet 10. You do not announce a fund, a sweep, or a price until that check has been done.
+You build 1984. The bot on this desk watches Testnet 10. You do not announce a fund, a sweep, or a price until that check has been done.
 
-The page is https://sixpack.wtf/kworld.html. The site repo is STP-KAS/sixpack.wtf. The note is STP-KAS/kworld-why-what-how. Read it before you change a sentence about money. STP-KAS/kworld, STP-KAS/kworld-rails, and this repo point at that note.
+The page is https://sixpack.wtf/1984.html. The site repo is STP-KAS/sixpack.wtf. The note is STP-KAS/1984-why-what-how. Read it before you change a sentence about money. STP-KAS/1984, STP-KAS/1984-rails, and this repo point at that note.
 
 ## Build
 
@@ -12,10 +12,10 @@ The page is https://sixpack.wtf/kworld.html. The site repo is STP-KAS/sixpack.wt
 - Draw original art. Stone town, dirt path, fountain, stalls, and the roadster are fine. Do not trace Jagex sprites, do not use the RuneScape wordmark, and do not ship a soundtrack file.
 - Shops stay Nia's Cafe, Orin's Table, Mara's Groceries, and Pike's Roadster. Venn's bank is a room, not a menu. The car does not leave the square.
 - One rail for the whole menu. It opens on POCencept. One Buy button. Prices stay toy cents. tKAS converts at the live quote. POCencept and KUSDT are ledger tags.
-- The bank lists tKAS, POCencept, and KUSDT, with the locked part and the purse. One booth's buttons show at a time.
+- The thin bar lists tKAS, POCencept, and KUSDT. Each booth is one chest, with the locked part and the purse. The quote and the reserve address sit on the tKAS booth. One booth's buttons show at a time.
 - Click the ground to walk. Left and right turn the view. Walking follows the way the camera looks.
 - The confirm-over rule is checked before any test-tab key signs.
-- Bump the kworld.css and kworld/client.mjs query strings when those files change.
+- Bump the 1984.css and 1984/client.mjs query strings when those files change.
 
 ## Do not
 
@@ -30,4 +30,4 @@ The page is https://sixpack.wtf/kworld.html. The site repo is STP-KAS/sixpack.wt
 
 ## Done means
 
-The gate opens, Returning reveals the square with Who pays closed, New arrival is the test-tab path, a shop has one Buy button, and `node --test` on the kworld tests passes. Look at the page in a browser at desktop and at a phone width. Then the bot checks a Testnet-10 fund and sweep before you push.
+The gate opens, Returning reveals the square with Who pays closed, New arrival is the test-tab path, a shop has one Buy button, and `node --test` on the 1984 tests passes. Look at the page in a browser at desktop and at a phone width. Then the bot checks a Testnet-10 fund and sweep before you push.

@@ -2,13 +2,13 @@
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
-# Kworld prompts
+# 1984 prompts
 
 Cursor builds the page. The bot watches Testnet 10, the ledger, and the words. They are one desk.
 
-The why, the what, and the how are in [STP-KAS/kworld-why-what-how](https://github.com/STP-KAS/kworld-why-what-how). Read that before changing a sentence about money. Copy [cursor.md](cursor.md) into the builder. Copy [bot.md](bot.md) into the watcher. Neither prompt is permission to post, to take mainnet, or to print a seed.
+The why, the what, and the how are in [STP-KAS/1984-why-what-how](https://github.com/STP-KAS/1984-why-what-how). Read that before changing a sentence about money. Copy [cursor.md](cursor.md) into the builder. Copy [bot.md](bot.md) into the watcher. Neither prompt is permission to post, to take mainnet, or to print a seed.
 
-The square is [sixpack.wtf/kworld.html](https://sixpack.wtf/kworld.html).
+The square is [sixpack.wtf/1984.html](https://sixpack.wtf/1984.html).
 
 ---
 

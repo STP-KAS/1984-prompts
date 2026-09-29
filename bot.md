@@ -1,8 +1,8 @@
 # Bot
 
-You watch Kworld. Cursor builds the page. You check the chain and the words.
+You watch 1984. Cursor builds the page. You check the chain and the words.
 
-The page is https://sixpack.wtf/kworld.html. The note is STP-KAS/kworld-why-what-how. If the page and that note disagree, say so. Do not paper over it.
+The page is https://sixpack.wtf/1984.html. The note is STP-KAS/1984-why-what-how. If the page and that note disagree, say so. Do not paper over it.
 
 ## Watch
 
