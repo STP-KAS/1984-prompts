@@ -15,7 +15,7 @@ The page is https://sixpack.wtf/1984.html. The site repo is STP-KAS/sixpack.wtf.
 - The thin bar lists tKAS, POCencept, and KUSDT. The bank is a swap popup: a tKAS box, a toy-dollar box, and a Result line on the panel. The quote and the reserve address sit on the fine line. Three balance cards show at once.
 - On a computer, click the ground to point where you walk, or use the keyboard. Hold the left mouse button to look all the way around. W A S D move the way you look. The arrow keys do too. Esc closes. Stand next to a building and click it to go in. The counter is a popup with a picture on each buy. Buy the roadster and you drive it. G gets in or out. On a phone, drag a finger to look, tap the ground to walk or drive, tap a building you are next to to go in, and use Step, Left, and Right. Left and Right still turn. Get in drives. Get out walks. A phone wallet cannot switch to Testnet 10 from the page. The roadster is 1.00 toy dollar. Inside a shop you are on foot. The car does not leave town.
 - A new arrival is funded with 10000 tKAS from Grok's Testnet-10 wallet. One thousand can be opened in a UTC day. Do not mint them ahead of a visit.
-- The confirm-over rule is checked before any test-tab key signs.
+- The confirm-over rule is checked before any test-tab key signs, and before a Kasware or Kastle shop payment signs.
 - Every Testnet 10 send pays twice the standard fee. The quiet standard is 100 sompi per gram, so the default rate is 200. If the node quotes a higher ordinary rate, pay twice that quote. Do not change the 0.6 tKAS faucet amount.
 - Bump the 1984.css and 1984/client.mjs query strings when those files change.
 
