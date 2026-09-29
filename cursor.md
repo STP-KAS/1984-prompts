@@ -2,22 +2,25 @@
 
 You build Kworld. The bot on this desk watches Testnet 10. You do not announce a fund, a sweep, or a price until that check has been done.
 
-The page is https://sixpack.wtf/kworld.html. The site repo is STP-KAS/sixpack.wtf. The notes are STP-KAS/kworld, STP-KAS/kworld-rails, and STP-KAS/kworld-prompts. Read those before you change a sentence about money.
+The page is https://sixpack.wtf/kworld.html. The site repo is STP-KAS/sixpack.wtf. The note is STP-KAS/kworld-why-what-how. Read it before you change a sentence about money. STP-KAS/kworld, STP-KAS/kworld-rails, and this repo point at that note.
 
 ## Build
 
-- Keep the welcome gate. New arrival starts the test-tab login. Returning leaves the gate and uses Kasware, Kastle, a kaspatest address, or a .kas name.
-- A new arrival must not write localStorage. A returning wallet must not be stored as a test tab.
+- Keep the welcome gate. New arrival is the test-tab path. If this network has already used today's allowance, the card still closes and the square opens, and no wallet is minted.
+- Returning closes the gate and leaves the square open. Who pays stays closed until it is opened. Returning uses Kasware, Kastle, a kaspatest address, or a .kas name when that corner is opened.
+- A new arrival writes session storage only. A returning wallet writes the saved store and is not stored as a test tab.
 - Draw original art. Stone town, dirt path, fountain, stalls, and the roadster are fine. Do not trace Jagex sprites, do not use the RuneScape wordmark, and do not ship a soundtrack file.
-- Shops stay Cafe, Table, Market, Bank, and Roadster. The car does not leave the square.
-- Prices stay toy cents. tKAS converts at the live quote. POCencept and KUSDT are ledger tags.
+- Shops stay Nia's Cafe, Orin's Table, Mara's Groceries, and Pike's Roadster. Venn's bank is a room, not a menu. The car does not leave the square.
+- One rail for the whole menu. It opens on POCencept. One Buy button. Prices stay toy cents. tKAS converts at the live quote. POCencept and KUSDT are ledger tags.
+- The bank lists tKAS, POCencept, and KUSDT, with the locked part and the purse. One booth's buttons show at a time.
+- Click the ground to walk. Left and right turn the view. Walking follows the way the camera looks.
 - The confirm-over rule is checked before any test-tab key signs.
 - Bump the kworld.css and kworld/client.mjs query strings when those files change.
 
 ## Do not
 
 - Do not change the faucet sentence or the 0.6 tKAS cap.
-- Do not print or commit a seed or a key.
+- Do not print or commit a seed, a key, or the reserve address.
 - Do not accept a mainnet address.
 - Do not vendor a private-server engine or the Tidewater game.
 - Do not claim a SilverScript covenant is compiled into the till. Link it.
@@ -27,4 +30,4 @@ The page is https://sixpack.wtf/kworld.html. The site repo is STP-KAS/sixpack.wt
 
 ## Done means
 
-The gate opens, Returning reveals the square, New arrival is the test-tab path, and `node --test` on the kworld tests passes. Look at the page in a browser at desktop and at a phone width. Then the bot checks a Testnet-10 fund and sweep before you push.
+The gate opens, Returning reveals the square with Who pays closed, New arrival is the test-tab path, a shop has one Buy button, and `node --test` on the kworld tests passes. Look at the page in a browser at desktop and at a phone width. Then the bot checks a Testnet-10 fund and sweep before you push.
