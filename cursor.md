@@ -13,7 +13,8 @@ The page is https://sixpack.wtf/1984.html. The site repo is STP-KAS/sixpack.wtf.
 - Shops stay Nia's Cafe, Orin's Table, Mara's Groceries, and Pike's Roadster. Venn's bank is a room, not a menu. The car does not leave the square.
 - One rail for the whole menu. It opens on POCencept. One Buy button. Prices stay toy cents. tKAS converts at the live quote. POCencept and KUSDT are ledger tags.
 - The thin bar lists tKAS, POCencept, and KUSDT. The bank is a swap popup: a tKAS box, a toy-dollar box, and a Result line on the panel. The quote and the reserve address sit on the fine line. Three balance cards show at once.
-- Click the ground to walk. Buy the roadster for 20.00 toy dollars and you drive it on the square. Inside a shop you get out and walk. The car does not leave town. Left and right turn the view. Walking follows the way the camera looks. Hold the left mouse button to look all the way around.
+- On a computer, click the ground to walk, hold the left mouse button to look all the way around, and use W A S D along the way the camera looks. On a phone, drag a finger to look, tap the ground to walk or drive, and use Step, Left, and Right. A phone wallet cannot switch to Testnet 10 from the page. Buy the roadster for 20.00 toy dollars and you drive it on the square. Inside a shop you get out and walk. The car does not leave town.
+- A new arrival is funded with 10000 tKAS from Grok's Testnet-10 wallet. One thousand can be opened in a UTC day. Do not mint them ahead of a visit.
 - The confirm-over rule is checked before any test-tab key signs.
 - Bump the 1984.css and 1984/client.mjs query strings when those files change.
 
