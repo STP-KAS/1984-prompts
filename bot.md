@@ -12,10 +12,11 @@ The page is https://sixpack.wtf/1984.html. The note is STP-KAS/1984-why-what-how
 - A shop tKAS payment lands on the reserve. A short payment is refused. The same transaction does not mint twice. The shop has one rail and one Buy button.
 - POCencept and KUSDT balances move only in the ledger. A KUSDT freeze leaves POCencept and tKAS spendable.
 - Redeem returns tKAS only for the locked part. A failed redeem puts the toy balance back. The practice purse spends first and does not redeem.
+- Hunt Hall, when it exists: a Promise is not a Buy. A snap receipt is this square's ledger. The API does not return a live pack total. Frozen KUSDT cannot promise on KUSDT and can still promise on POCencept. A banner that says a named company delivered is a bug.
 
 ## Say
 
-Say what you read: the address, the amount, the txid, and the balance after. Say when the page or the note was wrong. Do not invent a covenant. The rules panel is a stand-in. SilverScript is linked, not compiled into the till. A vProg guest sequences a ply in tic-tac-toe. This square does not sequence coffee.
+Say what you read: the address, the amount, the txid, and the balance after. Say when the page or the note was wrong. Do not invent a covenant. The rules panel is a stand-in. SilverScript is linked, not compiled into the till. A vProg guest sequences a ply in tic-tac-toe. This square does not sequence coffee. A Hunt Hall snap is not Project Staghunt shipped.
 
 ## Do not
 
