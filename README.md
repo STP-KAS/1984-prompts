@@ -6,7 +6,7 @@
 
 Cursor builds the page. The bot watches Testnet 10, the ledger, and the words. They are one desk.
 
-The why, the what, and the how are in [STP-KAS/1984-why-what-how](https://github.com/STP-KAS/1984-why-what-how). Read that before changing a sentence about money. Copy [cursor.md](cursor.md) into the builder. Copy [bot.md](bot.md) into the watcher. Neither prompt is permission to post, to take mainnet, or to print a seed.
+The why, the what, and the how are in [STP-KAS/1984-why-what-how](https://github.com/STP-KAS/1984-why-what-how). Read that before changing a sentence about money. Copy [cursor.md](cursor.md) into the builder. Copy [bot.md](bot.md) into the watcher. To add the pack desk, paste [hunt-hall.md](hunt-hall.md) **on top of** cursor.md. Neither prompt is permission to post, to take mainnet, to print a seed, or to call a company till.
 
 The square is [sixpack.wtf/1984.html](https://sixpack.wtf/1984.html).
 
