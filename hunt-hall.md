@@ -2,7 +2,13 @@
 
 Paste this **on top of** [cursor.md](cursor.md). That file still wins on the gate, the rails, the fee, the faucet, and the do-nots. This file only adds one building and the pack desk inside it.
 
-Repo: STP-KAS/sixpack.wtf. Page: https://sixpack.wtf/1984.html. Money note: STP-KAS/1984-why-what-how. Brief: STP-KAS/ask-and-bot. Theory: STP-KAS/stable-staghunt-theory.
+Repo: STP-KAS/sixpack.wtf. Page: https://sixpack.wtf/1984.html. Money note: STP-KAS/1984-why-what-how. Brief: STP-KAS/ask-and-bot. Theory: STP-KAS/stable-staghunt-theory (read IDEA.md).
+
+## Vision (keep it)
+
+The long goal does not change: Kaspa people and crypto people spend a stable (POC-shape or tether-shape) or tKAS at tills that can receive those rails. Shops that accept the rails are where the community goes. Multiplexing is the pressure. That is still the plan after the gate in ask-and-bot/plan.md opens.
+
+What you build today is the *switch*, not the shop behind the brand. Promise a fixed toy bill. Pick N. Hidden pack. Snap only when a subset meets every member's N. Alone you can still sign. An empty forest with one signed intendo is the correct picture. Naming Grok, Tesla, Starlink, or Netflix as the delivery was cheap talk. Keep the *shape* of those bills on the board. Do not print their logos or a "they shipped" banner.
 
 ## Pushback (read before you draw a roof)
 
@@ -40,7 +46,7 @@ Indoor room: a board on the north wall (the catalog), Reed at a high desk, a ben
 
 ### Catalog (toy cents, classroom delivery)
 
-Add to `world.mjs` as `HUNTS`, not as ordinary `SHOPS` items. A hunt is not an instant Buy.
+Add to `world.mjs` as `HUNTS`, not as ordinary `SHOPS` items. A hunt is not an instant Buy. Names on the board are shapes, not companies.
 
 | id | Stag on the board | Cents | Default N | Rails allowed | Classroom delivery |
 | --- | --- | ---: | ---: | --- | --- |
