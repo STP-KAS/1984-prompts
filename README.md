@@ -1,3 +1,5 @@
+> **Sixpack 1984: closed until further notice (other priorities).** Last updated 11 Oct 2026.
+
 > **Experimental only. Not a product.**
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
